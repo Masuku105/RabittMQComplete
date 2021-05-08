@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/7LFz/AKLUDC5P4/vbMLdjna064meUax+/SWgC+4AVsIn0dl3SdMwULzOqda8BfebjLGD/fu8PXIQFVNWNPYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xolani\\Desktop\\RabittMQdotNetCore\\Reciever\\Reciever\\Reciever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xolani\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Xolani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Xolani\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Xolani\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Xolani\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Xolani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
